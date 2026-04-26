@@ -1,0 +1,12 @@
+anthropic
+langchain-anthropic
+langchain-core
+langgraph
+google-search-results
+playwright
+python-dotenv
+trulens-core
+trulens-apps-langchain
+trulens-feedback
+trulens-providers-litellm
+litellm
